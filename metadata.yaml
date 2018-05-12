@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
     - http://pt.wikipedia.org/wiki/Alexandre_Herculano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25925#Poesias
 gutenberg_issued: '2008-06-28'
 gutenberg_type: Text
 identifiers:
